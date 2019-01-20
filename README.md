@@ -14,6 +14,7 @@ This web app was made in React for Dott recruitment program.
 ## .Weather - What you'll see. 
 Main Page
 [[https://github.com/renatogslopes/dottWeather/master/MainPage.png|alt=MainPage]]
+![MainPage](MainPage.png)
 
 Details Page
 [[https://github.com/renatogslopes/dottWeather/master/DetailsPage.png|alt=DetailsPage]]
