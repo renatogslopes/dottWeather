@@ -13,10 +13,10 @@ This web app was made in React for Dott recruitment program.
 
 ## .Weather - What you'll see. 
 Main Page
-[[https://github.com/username/repository/blob/master/MainPage.png|alt=MainPage]]
+[[https://github.com/renatogslopes/dottWeather/master/MainPage.png|alt=MainPage]]
 
 Details Page
-[[https://github.com/renatogslopes/dottWeather/blob/master/DetailsPage.png|alt=DetailsPage]]
+[[https://github.com/renatogslopes/dottWeather/master/DetailsPage.png|alt=DetailsPage]]
 
 ## To improve in the future
 
