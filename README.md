@@ -1,4 +1,4 @@
-# mosanoChallenge
+# dottWeather
 Dott Recruitment Web App 
 
 This web app was made in React for Dott recruitment program.
