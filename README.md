@@ -3,7 +3,7 @@
 This web app was made in ReactJS with the prupose to show all Portugal's regions and the weather forecast for each one. 
 
 ### Some implementation details
-To build this app was used three react libraries and [IPMA API](http://api.ipma.pt/open-data/distrits-islands.json).
+To build this app was used three react libraries and [IPMA API](http://api.ipma.pt/open-data/distrits-islands.json).<br />
 React Libraries:
 * [Create-React-App](https://github.com/facebook/create-react-app);
 * [Material-UI](https://material-ui.com);
